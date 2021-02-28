@@ -98,9 +98,15 @@ export default function TradeExporter() {
       <Row style={{ marginTop: 8 }}>
         <Col>
           <Typography>
+<<<<<<< HEAD
             CSV is formatted using{' '}
             <a href="https://help.taxbit.com/hc/en-us/articles/360047756913-Importing-transactions-manually-with-a-CSV-file">
               TaxBit importer specifications
+=======
+            Tax formating help can be found{' '}
+            <a href="https://help.taxbit.com/hc/en-us/articles/360047756913-Importing-transactions-manually-with-a-CSV-file">
+              here
+>>>>>>> Trade Exporter
             </a>
           </Typography>
         </Col>

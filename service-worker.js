@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/serum-dex-ui/precache-manifest.e01ce8e738f6a19d2936cc47f6d72bee.js"
+  "/serum-dex-ui/precache-manifest.653377c1d3cf2e0a74189e141d84d717.js"
 );
 
 self.addEventListener('message', (event) => {

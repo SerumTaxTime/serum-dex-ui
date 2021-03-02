@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6bfbc067a098fe701d7883db6047282",
+    "revision": "e2adb0bdb1f27d5757aa8da3ec318ead",
     "url": "/serum-dex-ui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serum-dex-ui/static/css/2.8cf2ef39.chunk.css"
   },
   {
-    "revision": "471cd92cce1f3fb98576",
+    "revision": "20a6d20dec879fcd0d4c",
     "url": "/serum-dex-ui/static/css/main.a1d5c795.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/serum-dex-ui/static/js/2.9d69e10b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "471cd92cce1f3fb98576",
-    "url": "/serum-dex-ui/static/js/main.bf342ce3.chunk.js"
+    "revision": "20a6d20dec879fcd0d4c",
+    "url": "/serum-dex-ui/static/js/main.6e8baf5e.chunk.js"
   },
   {
     "revision": "663b1c1ae30a5616e9bc",

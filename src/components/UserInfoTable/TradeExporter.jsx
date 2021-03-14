@@ -19,12 +19,14 @@ export default function TradeExporter() {
 
   useEffect(() => {
     (async () => {
-      // if (connected) {
-      const data = await TransactionsApi.getTransactionData(
-        wallet.publicKey.toBase58(),
-      );
-      setTransactionData(data);
-      // }
+      if (connected) {
+        const data = await TransactionsApi.getTransactionData(
+          wallet.publicKey.toBase58(),
+        );
+        setTransactionData(data);
+      } else {
+        setTransactionData({});
+      }
     })();
   }, [wallet, connected]);
 
@@ -76,7 +78,9 @@ export default function TradeExporter() {
               <ExportButton>
                 <CSVLink
                   data={transactionData.data}
-                  filename={`serum_trades_${wallet.publicKey.toBase58()}`}
+                  filename={`serum_trades_${
+                    connected ? wallet.publicKey.toBase58() : ''
+                  }`}
                   headers={transactionData.columns}
                 >
                   Download CSV
@@ -98,9 +102,15 @@ export default function TradeExporter() {
       <Row style={{ marginTop: 8 }}>
         <Col>
           <Typography>
+<<<<<<< HEAD
             CSV is formatted using{' '}
             <a href="https://help.taxbit.com/hc/en-us/articles/360047756913-Importing-transactions-manually-with-a-CSV-file">
               TaxBit importer specifications
+=======
+            Tax formating help can be found{' '}
+            <a href="https://help.taxbit.com/hc/en-us/articles/360047756913-Importing-transactions-manually-with-a-CSV-file">
+              here
+>>>>>>> Trade Exporter
             </a>
           </Typography>
         </Col>

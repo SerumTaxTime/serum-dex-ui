@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/serum-dex-ui/static/css/main.a1d5c795.chunk.css",
-    "main.js": "/serum-dex-ui/static/js/main.6e8baf5e.chunk.js",
-    "main.js.map": "/serum-dex-ui/static/js/main.6e8baf5e.chunk.js.map",
+    "main.css": "/serum-dex-ui/static/css/main.0d007200.chunk.css",
+    "main.js": "/serum-dex-ui/static/js/main.04fe7e7b.chunk.js",
+    "main.js.map": "/serum-dex-ui/static/js/main.04fe7e7b.chunk.js.map",
     "runtime-main.js": "/serum-dex-ui/static/js/runtime-main.5c7e3df8.js",
     "runtime-main.js.map": "/serum-dex-ui/static/js/runtime-main.5c7e3df8.js.map",
-    "static/css/2.8cf2ef39.chunk.css": "/serum-dex-ui/static/css/2.8cf2ef39.chunk.css",
-    "static/js/2.9d69e10b.chunk.js": "/serum-dex-ui/static/js/2.9d69e10b.chunk.js",
-    "static/js/2.9d69e10b.chunk.js.map": "/serum-dex-ui/static/js/2.9d69e10b.chunk.js.map",
+    "static/css/2.3a0ac4c9.chunk.css": "/serum-dex-ui/static/css/2.3a0ac4c9.chunk.css",
+    "static/js/2.620aa993.chunk.js": "/serum-dex-ui/static/js/2.620aa993.chunk.js",
+    "static/js/2.620aa993.chunk.js.map": "/serum-dex-ui/static/js/2.620aa993.chunk.js.map",
     "index.html": "/serum-dex-ui/index.html",
-    "precache-manifest.1cec7bf1def95159619aeb839eef42f4.js": "/serum-dex-ui/precache-manifest.1cec7bf1def95159619aeb839eef42f4.js",
+    "precache-manifest.02cc6e99ff28972df04aa75eb9f81565.js": "/serum-dex-ui/precache-manifest.02cc6e99ff28972df04aa75eb9f81565.js",
     "service-worker.js": "/serum-dex-ui/service-worker.js",
-    "static/css/2.8cf2ef39.chunk.css.map": "/serum-dex-ui/static/css/2.8cf2ef39.chunk.css.map",
-    "static/css/main.a1d5c795.chunk.css.map": "/serum-dex-ui/static/css/main.a1d5c795.chunk.css.map",
-    "static/js/2.9d69e10b.chunk.js.LICENSE.txt": "/serum-dex-ui/static/js/2.9d69e10b.chunk.js.LICENSE.txt",
+    "static/css/2.3a0ac4c9.chunk.css.map": "/serum-dex-ui/static/css/2.3a0ac4c9.chunk.css.map",
+    "static/css/main.0d007200.chunk.css.map": "/serum-dex-ui/static/css/main.0d007200.chunk.css.map",
+    "static/js/2.620aa993.chunk.js.LICENSE.txt": "/serum-dex-ui/static/js/2.620aa993.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/serum-dex-ui/static/media/logo.49174c73.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5c7e3df8.js",
-    "static/css/2.8cf2ef39.chunk.css",
-    "static/js/2.9d69e10b.chunk.js",
-    "static/css/main.a1d5c795.chunk.css",
-    "static/js/main.6e8baf5e.chunk.js"
+    "static/css/2.3a0ac4c9.chunk.css",
+    "static/js/2.620aa993.chunk.js",
+    "static/css/main.0d007200.chunk.css",
+    "static/js/main.04fe7e7b.chunk.js"
   ]
 }
